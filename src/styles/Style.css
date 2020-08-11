@@ -1,0 +1,23 @@
+body{
+	background: cornflowerblue;
+	background: linear-gradient(90deg, cornflowerblue 0%, whitesmoke 48%, whitesmoke 30%,  cornflowerblue 100%);
+	
+}
+form {
+	margin-top: 20px;
+	;
+}
+
+form input[name="city"],
+form input[name="country"] {
+	background-color: transparent;
+	color: rgb(117, 139, 117);
+	border: 10px;
+	border-bottom: 2px solid whitesmoke;
+	border-radius: 5;
+}
+
+form input:focus {
+	background-color: transparent !important;
+	box-shadow: darkviolets !important;
+}
