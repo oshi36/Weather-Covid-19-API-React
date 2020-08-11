@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Weather-Covid-19-API-React/static/css/main.ccb08182.chunk.css",
+    "main.js": "/Weather-Covid-19-API-React/static/js/main.4b9c5b0e.chunk.js",
+    "main.js.map": "/Weather-Covid-19-API-React/static/js/main.4b9c5b0e.chunk.js.map",
+    "runtime-main.js": "/Weather-Covid-19-API-React/static/js/runtime-main.2b966c7d.js",
+    "runtime-main.js.map": "/Weather-Covid-19-API-React/static/js/runtime-main.2b966c7d.js.map",
+    "static/css/2.26420363.chunk.css": "/Weather-Covid-19-API-React/static/css/2.26420363.chunk.css",
+    "static/js/2.92a1cb07.chunk.js": "/Weather-Covid-19-API-React/static/js/2.92a1cb07.chunk.js",
+    "static/js/2.92a1cb07.chunk.js.map": "/Weather-Covid-19-API-React/static/js/2.92a1cb07.chunk.js.map",
+    "index.html": "/Weather-Covid-19-API-React/index.html",
+    "precache-manifest.f3141c35f72d82059403eac9da4247f8.js": "/Weather-Covid-19-API-React/precache-manifest.f3141c35f72d82059403eac9da4247f8.js",
+    "service-worker.js": "/Weather-Covid-19-API-React/service-worker.js",
+    "static/css/2.26420363.chunk.css.map": "/Weather-Covid-19-API-React/static/css/2.26420363.chunk.css.map",
+    "static/css/main.ccb08182.chunk.css.map": "/Weather-Covid-19-API-React/static/css/main.ccb08182.chunk.css.map",
+    "static/js/2.92a1cb07.chunk.js.LICENSE.txt": "/Weather-Covid-19-API-React/static/js/2.92a1cb07.chunk.js.LICENSE.txt",
+    "static/media/covid.jpg": "/Weather-Covid-19-API-React/static/media/covid.3dcb1c42.jpg",
+    "static/media/weather-icons.css": "/Weather-Covid-19-API-React/static/media/weathericons-regular-webfont.f5b0d0d9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b966c7d.js",
+    "static/css/2.26420363.chunk.css",
+    "static/js/2.92a1cb07.chunk.js",
+    "static/css/main.ccb08182.chunk.css",
+    "static/js/main.4b9c5b0e.chunk.js"
+  ]
+}
